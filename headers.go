@@ -1,4 +1,8 @@
-/*r.Header.Get returns an empty string for a header key that was never sent.*/
+/*
+	EXERCISE 3
+
+r.Header.Get returns an empty string for a header key that was never sent.
+*/
 package main
 
 import (
